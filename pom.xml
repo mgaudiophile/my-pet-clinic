@@ -14,7 +14,7 @@
     </parent>
     <groupId>mgaudiofile.spring</groupId>
     <artifactId>my-pet-clinic</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2-SNAPSHOT</version>
     <name>my-pet-clinic</name>
     <description>Spring 5 pet clinic project</description>
 
@@ -40,7 +40,7 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/mgaudiophile/my-pet-clinic.git</developerConnection>
-      <tag>0.0.1</tag>
+      <tag>HEAD</tag>
   </scm>
 
 </project>
